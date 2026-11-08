@@ -1,0 +1,22 @@
+{
+  "wheel_id": 821,
+  "structure": "umbrella",
+  "slug": "roofcontractortampa-113",
+  "project": "roofing-services-tampa-quotes-explained-a643ea9365b8efa05548b4a",
+  "parent_t1_ref": "roofcontractortampa-156",
+  "node_role": "feeder",
+  "money_target": "roofcontractortampa.net",
+  "primary_kw": "roofing services tampa quotes explained",
+  "intended_url": "https://aumedia.neocities.org/roofing-services-tampa-quotes-explained-a643ea9365b8efa05548b4a/",
+  "tier": "T2",
+  "writeback_nonce": "56c14656f5e0940c",
+  "links": [
+    {
+      "target_url": "http://roofing-services-tampa-2060c7ab4e10f4e810fb8d1251c0b15c229b4a37.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "the full guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
